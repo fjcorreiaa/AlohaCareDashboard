@@ -66,10 +66,10 @@ For questions or feedback, feel free to reach out:
 
 ## Links Importantes
 
-📱[ Aloha Care  App link] ([https://aloha-app-wine.vercel.app/](https://aloha-app-wine.vercel.app/))
+📱[Aloha Care  App link]([https://aloha-app-wine.vercel.app/](https://aloha-app-wine.vercel.app/))
 
-📊[ Aloha Care Dasboard Streamlite ]  (https\://alohacaredashboard-tk8afbfxqy64agah5l8j4t.streamlit.app/)
-[Collab] (https://colab.research.google.com/drive/1cWulzID5z5s7hYPsDi29JHVE5LOe0Pff?usp=sharing)
+📊[Aloha Care Dasboard Streamlite ](https\://alohacaredashboard-tk8afbfxqy64agah5l8j4t.streamlit.app/)
+[Collab](https://colab.research.google.com/drive/1cWulzID5z5s7hYPsDi29JHVE5LOe0Pff?usp=sharing)
 
 
 
