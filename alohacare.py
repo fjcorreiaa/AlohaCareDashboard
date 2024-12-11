@@ -15,8 +15,6 @@ Original file is located at
 
 import pandas as pd
 import numpy as np
-pip install sklearn
-pip install seaborn
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
