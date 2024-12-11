@@ -37,11 +37,6 @@ To run this project, ensure you have the following installed:
 
 
 
-```bash
-```
-
-##
-
 ## Usage
 
 Open the Colab notebook and start running the cells. 
@@ -74,6 +69,7 @@ For questions or feedback, feel free to reach out:
 📱[ Aloha Care  App link] ([https://aloha-app-wine.vercel.app/](https://aloha-app-wine.vercel.app/))
 
 📊[ Aloha Care Dasboard Streamlite ]  (https\://alohacaredashboard-tk8afbfxqy64agah5l8j4t.streamlit.app/)
+[Collab] (https://colab.research.google.com/drive/1cWulzID5z5s7hYPsDi29JHVE5LOe0Pff?usp=sharing)
 
 
 
