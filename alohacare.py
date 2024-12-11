@@ -400,7 +400,6 @@ with open("cluster_data.json", "w") as f:
 """# Streamlite Vision"""
 
 import plotly.express as px
-pip install streamlit
 import streamlit as st
 
 clusters_list = {
